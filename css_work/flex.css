@@ -1,0 +1,26 @@
+.parent{
+    
+    width: 653px;
+    height: 339px;
+    background-color: cadetblue;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    justify-content: space-around;
+}
+.col{
+    width: 50px;
+    height: 200px;
+}
+.col1{
+    background-color: green;
+}
+.col2{
+    background-color: orangered;
+}
+.col3{
+    background-color: magenta;
+}
+.col4{
+    background-color: violet;
+}

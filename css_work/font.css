@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+
+div{
+    border: 2px solid teal;
+    font-family: 'Rampart One', cursive;
+    background-color: cadetblue;
+    width: 50%;
+     
+     
+}
+body{
+    background-color: coral;
+    background-image: url(https://th.bing.com/th/id/OIP.rH4rKGqi0zFPCTq7QYpCDwHaFj?w=235&h=180&c=7&o=5&dpr=1.25&pid=1.7);
+    
+}

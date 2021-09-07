@@ -1,0 +1,118 @@
+h1{
+    
+    color: floralwhite;
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+div{
+    border: 1px solid;
+    height: 119px;
+    width:83px;
+}
+.box1{
+    background-color: rgb(53,52,52);
+    margin-top: 4%;
+    margin-left: 32%;
+}
+.box2{
+    background-color: rgb(44,68,51);
+    margin-top: -8%;
+    margin-left: 40%;
+}
+.box3{
+    background-color:rgb(4,170,73);
+    margin-top:-8%;
+    margin-left: 48%;
+}
+.box4{
+    background-color: rgb(34,110,4);
+    margin-top: -8%;
+    margin-left: 56%;
+}
+.box5{
+    background-color: lightslategray;
+    margin-top: -8%;
+    margin-left:66%;
+}
+.box6{
+    background-color: linen;
+    margin-top: 3%;
+    margin-left: 20%;
+}
+.box7{
+    background-color: mediumvioletred;
+    margin-top: -8%;
+    margin-left: 29%;
+}
+.box8{
+    background-color: olivedrab;
+    margin-top: -8%;
+    margin-left:38% ;
+}
+.box9{
+    background-color: tomato;
+    margin-top: -8%;
+    margin-left:47% ;
+}
+.box10{
+    background-color: yellowgreen;
+    margin-top: -8%;
+    margin-left:56%;
+}
+.box11{
+    background-color: whitesmoke;
+    margin-top: -8%;
+    margin-left:65% ;
+}
+.box12{
+    background-color: teal;
+    margin-top: -8%;
+    margin-left:74% ;
+}
+.box13{
+    background-color: violet;
+    margin-top: 3%;
+    margin-left: 10%;
+}
+.box14{
+    background-color: palegreen;
+    margin-top: -8%;
+    margin-left: 19%;
+}
+.box15{
+    background-color: plum;
+    margin-top: -8%;
+    margin-left:28% ;
+}
+.box16{
+    background-color: red;
+    margin-top: -8%;
+    margin-left:37% ;
+}
+.box17{
+    background-color: royalblue;
+    margin-top:-8% ;
+    margin-left:47% ;
+}
+.box18{
+    background-color: slateblue;
+    margin-top: -8%;
+    margin-left:56% ;
+}
+.box19{
+    background-color: salmon;
+    margin-top: -8%;
+    margin-left:65% ;
+}
+.box20{
+    background-color: springgreen;
+    margin-top: -8%;
+    margin-left:75% ;
+}
+.box21{
+    background-color: tan;
+    margin-top: -8%;
+    margin-left:83% ;
+}

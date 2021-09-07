@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    
+}
+
+.new{
+    border: 3px solid black;
+    height: 270px;
+    width: 500px;
+    background-color: darkcyan;
+    margin-left: 34%;
+    text-align: center;
+    border-color: darkred;
+    background-color: mediumaquamarine;
+    
+    
+}

@@ -1,0 +1,17 @@
+div{
+    border: solid;
+    height: 200px;
+    width: 30%;
+}
+.box1{
+    position: absolute;
+    background-color: lime;
+    margin-top: 20%;
+    margin-left: 30%;
+}
+.box2{
+    position: absolute;
+    background-color: rgb(255, 196, 216); 
+    margin-top: 2%;
+    margin-left: 30%;
+}
