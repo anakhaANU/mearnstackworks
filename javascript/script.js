@@ -28,8 +28,21 @@
 
 // console.log("hello world");
 // console.log("hello world");
-var company="luminar technolab";
-var loc_name="kakkanad";
-console .log(loc_name);
+
 //age,name
 //hai i am name age years old
+// var age="20";
+// var p_name="Anakha";
+// console.log(age,p_name);
+// console.log("hai i am" , p_name + age +"years old");
+//+ operator is used to concatination(eg:good+morning)
+// var location_name="kakkanad" , company_name="luminar technolab";
+// console.log(` our company ${company_name} located in ${location_name}`);
+//operators
+//1.arithemetic(+,-,*./.%,**)
+// console.log(10%2) //(for taking remainder)
+// console.log(2**4);//(exponent)
+//2.relational operator=>for compairing 2 values will return boolean value(eg=><,>,<=,>=,==,!=)
+// console.log(10<20);
+// console.log(10==10);
+console.log(50<20<false);
