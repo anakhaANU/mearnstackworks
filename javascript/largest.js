@@ -11,7 +11,7 @@ else{
     console.log("both are equal");
 }
 //odd or even
-//num=5 if num is divisible by 3 print fiz and num is divisible by5 print buzz and 15 print 12 fizbuss
+//num=15 if num is divisible by 3 print fiz and num is divisible by5 print buzz and 15 print 12 fizbuss
 //second largest number from three numbers without predefined method and array
 // sort these three number in assending order
 //swap 2 number
